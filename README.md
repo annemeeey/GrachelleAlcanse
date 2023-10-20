@@ -2,19 +2,20 @@
 <p align=center><a href="https://github.com/annemeeey"><img src="https://i.imgur.com/lNlOv13.png" /></a></p>
 
 <h1 align="center">Grachelle Alcanse</h1>
-
 <br>
-<p align="center">
+
+### 📫 Reach me:
+
+
 <div align="center">
 <a href="https://www.linkedin.com/in/grachelle-alcanse/" target="_blank"><img align="left" alt="Linkedin" height ="42px" src="res/linkedin-svgrepo-com.svg"></a> 
 <a href="mailto: grachellealcanse@gmail.com" target="_blank"><img align="left" alt="Gmail" height ="42px" src="res/gmail-svgrepo-com.svg"></a> 
 <a href="https://www.facebook.com/grachellealcanse" target="_blank"><img align="left" alt="Facebook" height ="42px" src="res/facebook-color-svgrepo-com.svg"></a> 
 <a href="https://discordapp.com/users/666852623357313055" target="_blank"><img align="left" alt="Discord" height ="42px" src="res/discord-icon-svgrepo-com.svg"></a>
 <a href="https://www.instagram.com/annemeeey/" target="_blank"><img align="left" alt="Instagram" height ="42px" src="res/instagram-1-svgrepo-com.svg"></a>
-  
 </div>
-</p>
-
+<br>
+<h3 align="left">BSIT student at New Era University, Quezon City, Philippines</h3>
 <br>
 
 ### 🔨 Languages and Tools:
@@ -33,3 +34,36 @@
 <a target="_blank"> <img src="res/office-1-logo-svgrepo-com.svg" alt="MS" height='42px'/> </a>
 
 <br>
+
+### 📚 Education
+<p align="left">Bachelor of Science in Information Technology | New Era University <br>
+2020 - Present <br><br></p>
+
+### 📝 Certifications
+<p align ="left">
+<a href="https://courses.cognitiveclass.ai/certificates/330c15be5e29487e961adabc86f456ec">
+<br>SQL and Relational Databases 101</a> <br>
+Cognitive Class <br>
+May 7, 2022 </center>
+</p>
+
+<p align ="left">
+<a href="https://courses.cognitiveclass.ai/certificates/aa6b2050845040f395ca5582215e145f">
+<br>Data Science 101</a> <br>
+Cognitive Class <br>
+May 7, 2022 </center>
+</p>
+
+<p align ="left">
+<a href="https://courses.cognitiveclass.ai/certificates/6cb27cdd6a4a4cd19df3291c885019c0">
+<br>NoSQL and DBaaS 101</a> <br>
+Cognitive Class <br>
+May 4, 2022 </center>
+</p>
+
+<p align ="left">
+<a href="https://courses.cognitiveclass.ai/certificates/e9c81a726af4453880bb9e94aee94ff9">
+<br>Big Data 101</a> <br>
+Cognitive Class <br>
+May 4, 2022 </center>
+</p>
