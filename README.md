@@ -27,7 +27,6 @@
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="res/java-svgrepo-com.svg"></a>
 <a href="https://firebase.google.com/" target="_blank"> <img align="left" src="res/firebase-svgrepo-com.svg" alt="Firebase" height ="42px"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="res/javascript-svgrepo-com.svg"> </a>
-
 <a target="_blank"> <img align="left" alt="SQL" height ="42px" src="res/sql-svgrepo-com.svg"></a>
 <a href="https://www.ibm.com/us-en" target="_blank"><img align="left" alt="IBM" height ="42px" src="res/ibm-logo-svgrepo-com.svg"></a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="res/mongodb-logo-svgrepo-com.svg" align="left" alt="Mongodb" height='42px'/> </a>
