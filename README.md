@@ -15,7 +15,9 @@
 <a href="https://www.instagram.com/annemeeey/" target="_blank"><img align="left" alt="Instagram" height ="42px" src="res/instagram-1-svgrepo-com.svg"></a>
 </div>
 <br>
+<br/>
 <br>
+
 <p>BSIT student at New Era University, Quezon City, Philippines</p>
 <br/>
 
@@ -36,11 +38,11 @@
 
 <br>
 
-### 📚 Education
+### 📚 Education:
 <p align="left">Bachelor of Science in Information Technology | New Era University <br>
 2020 - Present <br><br></p>
 
-### 📝 Certifications
+### 📝 Certifications:
 <p align ="left">
 <a href="https://courses.cognitiveclass.ai/certificates/330c15be5e29487e961adabc86f456ec">
 <br>SQL and Relational Databases 101</a> <br>
