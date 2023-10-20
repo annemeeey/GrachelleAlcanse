@@ -4,8 +4,7 @@
 <h1 align="center">Grachelle Alcanse</h1>
 
 <br>
-
-### 
+<p align="center">
 <div align="center">
 <a href="https://www.linkedin.com/in/grachelle-alcanse/" target="_blank"><img align="left" alt="Linkedin" height ="42px" src="res/linkedin-svgrepo-com.svg"></a> 
 <a href="mailto: grachellealcanse@gmail.com" target="_blank"><img align="left" alt="Gmail" height ="42px" src="res/gmail-svgrepo-com.svg"></a> 
@@ -14,6 +13,7 @@
 <a href="https://www.instagram.com/annemeeey/" target="_blank"><img align="left" alt="Instagram" height ="42px" src="res/instagram-1-svgrepo-com.svg"></a>
   
 </div>
+</p>
 
 <br>
 
