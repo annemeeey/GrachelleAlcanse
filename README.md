@@ -15,6 +15,7 @@
 <a href="https://www.instagram.com/annemeeey/" target="_blank"><img align="left" alt="Instagram" height ="42px" src="res/instagram-1-svgrepo-com.svg"></a>
 </div>
 <br>
+<br>
 <p>BSIT student at New Era University, Quezon City, Philippines</p>
 <br/>
 
