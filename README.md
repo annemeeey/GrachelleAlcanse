@@ -44,6 +44,13 @@
 
 ### 📝 Certifications:
 <p align ="left">
+<a href="https://drive.google.com/file/d/1HEI1NVS5Nyw6nznQEQUApHYROXjFuAeh/view?usp=drive_link">
+<br>Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate</a> <br>
+Oracle <br>
+November 3, 2023 </center>
+</p>
+
+<p align ="left">
 <a href="https://courses.cognitiveclass.ai/certificates/330c15be5e29487e961adabc86f456ec">
 <br>SQL and Relational Databases 101</a> <br>
 Cognitive Class <br>
