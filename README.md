@@ -54,26 +54,26 @@ November 3, 2023 </center>
 <a href="https://courses.cognitiveclass.ai/certificates/330c15be5e29487e961adabc86f456ec">
 <br>SQL and Relational Databases 101</a> <br>
 Cognitive Class <br>
-May 7, 2022 </center>
+May 7, 2023 </center>
 </p>
 
 <p align ="left">
 <a href="https://courses.cognitiveclass.ai/certificates/aa6b2050845040f395ca5582215e145f">
 <br>Data Science 101</a> <br>
 Cognitive Class <br>
-May 7, 2022 </center>
+May 7, 2023 </center>
 </p>
 
 <p align ="left">
 <a href="https://courses.cognitiveclass.ai/certificates/6cb27cdd6a4a4cd19df3291c885019c0">
 <br>NoSQL and DBaaS 101</a> <br>
 Cognitive Class <br>
-May 4, 2022 </center>
+May 4, 2023 </center>
 </p>
 
 <p align ="left">
 <a href="https://courses.cognitiveclass.ai/certificates/e9c81a726af4453880bb9e94aee94ff9">
 <br>Big Data 101</a> <br>
 Cognitive Class <br>
-May 4, 2022 </center>
+May 4, 2023 </center>
 </p>
