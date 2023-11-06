@@ -45,7 +45,9 @@
 ### 📝 Certifications:
 <p align ="left">
 <a href="https://drive.google.com/file/d/1HEI1NVS5Nyw6nznQEQUApHYROXjFuAeh/view?usp=drive_link">
-<br>Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate</a> <br>
+<br>Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate - Certificate</a> <br>
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=331C3605C740BA56B64F11A3CACC634443A85FED565E3C1838453A480C71CCEF">
+<br>Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate - Badge</a> <br>
 Oracle <br>
 November 3, 2023 </center>
 </p>
