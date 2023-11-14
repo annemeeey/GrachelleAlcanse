@@ -44,6 +44,13 @@
 
 ### 📝 Certifications:
 <p align ="left">
+<a href="https://www.datacamp.com/certificate/DAA0013043665015">
+<br>Data Analyst Associate</a> <br>
+DataCamp <br>
+November 15, 2023 </center>
+</p>
+
+<p align ="left">
 <a href="https://drive.google.com/file/d/1HEI1NVS5Nyw6nznQEQUApHYROXjFuAeh/view?usp=drive_link">
 <br>Certificate: Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate</a> 
 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=331C3605C740BA56B64F11A3CACC634443A85FED565E3C1838453A480C71CCEF">
